@@ -1,9 +1,9 @@
 # Suma Numeros Aleatorio
 
-1-Ingresa un numero objetivo
+1-Ingresa un numero objetivo 
 2-Ingresa la cantidad de numeros aleatorios que deseas generar
 
-La app generara tantos numeros aleatorios como deseas , cuya suma sera igual al numero objetivo
+La app generara el numero de aleatorios ingresado y la suma de ellos sera igual al numero objetivo (Resultado esperado)
 
-*Actualmente configuado para generacion de decimales
+*Actualmente configurado para generacion de decimales
 
