@@ -1,0 +1,5 @@
+C:\Users\jespinoza\Desktop\GenerarNumerosAleatorios\GenerarNumerosAleatorios\bin\Debug\GenerarNumerosAleatorios.exe.config
+C:\Users\jespinoza\Desktop\GenerarNumerosAleatorios\GenerarNumerosAleatorios\bin\Debug\GenerarNumerosAleatorios.exe
+C:\Users\jespinoza\Desktop\GenerarNumerosAleatorios\GenerarNumerosAleatorios\bin\Debug\GenerarNumerosAleatorios.pdb
+C:\Users\jespinoza\Desktop\GenerarNumerosAleatorios\GenerarNumerosAleatorios\obj\Debug\GenerarNumerosAleatorios.exe
+C:\Users\jespinoza\Desktop\GenerarNumerosAleatorios\GenerarNumerosAleatorios\obj\Debug\GenerarNumerosAleatorios.pdb
